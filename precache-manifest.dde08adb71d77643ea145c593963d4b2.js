@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e01ce63591e65c27664b8a80ccd1e483",
+    "revision": "f4a821b5181c39d2e5718c9e17c7b26a",
     "url": "https://farhanshakir.github.io/csb-5cx1xt/index.html"
   },
   {
-    "revision": "db69930006d389d8ba2e",
+    "revision": "024e6efc4fdf0955f539",
     "url": "https://farhanshakir.github.io/csb-5cx1xt/static/css/main.ff0d6d32.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://farhanshakir.github.io/csb-5cx1xt/static/js/2.5942a445.chunk.js"
   },
   {
-    "revision": "db69930006d389d8ba2e",
-    "url": "https://farhanshakir.github.io/csb-5cx1xt/static/js/main.45ade1d1.chunk.js"
+    "revision": "024e6efc4fdf0955f539",
+    "url": "https://farhanshakir.github.io/csb-5cx1xt/static/js/main.17c6113b.chunk.js"
   },
   {
     "revision": "81abbcfc1c7106a3ea89",
